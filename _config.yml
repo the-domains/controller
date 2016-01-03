@@ -1,0 +1,28 @@
+name: Controller
+favicon: null
+layout_spectrum: 0.3573352531529963
+typography_spectrum: 0.7263600926380605
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6726615608204156
+  lightness: 0.5944102839566767
+  saturation: 0.7707295676227659
+  rhythmicContrast: 0.5585258519276977
+purpose: []
