@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Controller]]></title>
         <description><![CDATA[Controller]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/controller/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 03:22:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 03:33:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/controller/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[HERE IS OUR FIRST POST]]></title>
-            <description><![CDATA[<article><h1>HERE IS OUR FIRST POST</h1><p>We Are Controller</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fade90fc5ff19fcac1a12fe1052ed79eefd6af53.jpg"></article>]]></description>
-            <link>undefinedhere-is-our-first-post/index.html</link>
+            <title><![CDATA[We Are Controller]]></title>
+            <description><![CDATA[<article><h1>We Are Controller</h1><p>One of the main reasons I applied and eventually went to Temple University was because I assumed it was Bill Cosby’s Hillman. I assumed that I too would be able to live in his legacy because, who didn’t want to be Bill Cosby growing up? The real question was who didn’t want to be the fictional character Heathcliff Huxtable on the fictional television show The Cosby Show, played by Bill Cosby, growing up? Look at dem’ sweaters, y’all. Come on. His niece and nephew were named Winnie and Nelson. The jazz records and guest stars modeled pure Black excellence. His wife was Phylicia Rashad for God’s sake. Then Hannibal Buress opened his big mouth and the earth cracked: Cosby? Pillar of our hopes and dreams Cosby? Drugging women and having sex with them? Nah, say it ain’t so.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25ff481bba7b44a9e6e05f586012173ae4d4815a.png"></article>]]></description>
+            <link>https://thegrid.ai/controller/here-is-our-first-post/index.html</link>
             <guid isPermaLink="false">79890353-8bff-4641-909c-1d38234cc788</guid>
-            <pubDate>Sun, 03 Jan 2016 03:22:15 GMT</pubDate>
+            <pubDate>Sun, 03 Jan 2016 03:32:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
